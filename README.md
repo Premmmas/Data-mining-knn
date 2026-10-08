@@ -4,9 +4,9 @@
 Repositori ini berisi latihan klasifikasi menggunakan algoritma K-Nearest Neighbor (K-NN) pada dataset *Social Network Ads* untuk memenuhi tugas Mata Kuliah Data Mining.
 
 ## Informasi Mahasiswa
-* **Nama**: [Nama Kamu]
-* **NIM**: [NIM Kamu]
-* **Kelas**: Data Mining
+* **Nama**: Primastian Hilmi Adji Pramudya
+* **NIM**: A11.2024.16006
+* **Kelas**: Data Mining/A11.4513
 
 ## Deskripsi Proyek
 Program ini bertujuan untuk memprediksi apakah seorang pengguna akan membeli produk berdasarkan atribut umur (*Age*) dan perkiraan gaji (*Estimated Salary*).
